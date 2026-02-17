@@ -1,0 +1,5 @@
+python-aiocontextvars source: file-without-copyright-information
+python-aiocontextvars source: no-debian-changes
+python-aiocontextvars source: source-contains-prebuilt-windows-binary
+python-aiocontextvars source: source-is-missing
+python-aiocontextvars source: source-package-encodes-python-version
